@@ -32,7 +32,7 @@ Students will engage with articles, supplemented by the following textbooks (sec
 - **[JM]** Jurafsky, D. & Martin, J.H. *Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition*. [Link](https://web.stanford.edu/~jurafsky/slp3/)
 
 - **[AG]** Alammar, J. & Grootendorst, M. (2024). *Hands-On Large Language Models: Language Understanding and Generation*. [Link](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)
-- 
+  
 - **[GRS]** Grimmer, J., Roberts, M.E., & Stewart, B.M. (2022). *Text as Data: A New Framework for Machine Learning and the Social Sciences*. [Link](https://product.kyobobook.co.kr/detail/S000002751294)
 
 
