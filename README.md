@@ -66,6 +66,7 @@ Students (working in groups) will present a review of an applied research articl
 - 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **applied_review_discussion** tab). 
 - 📤 Prior to the presentation, upload your presentation slides to the **applied_review_discussion_slides** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link).
 
+
 ## Methods Tutorial Details
 
 Students (working in groups) will be responsible for presenting a methods tutorial. The presentations serve a dual purpose: first, to provide non-presenting students with a hands-on implementation of the techniques covered in the previous week; and second, to offer presenting students an opportunity to apply and adapt those techniques in their own research. A key component of evaluation will be how clear, understandable, and followable the tutorial is for the class. Presentations should be structured so that other students can realistically learn and reproduce the method.
@@ -78,9 +79,10 @@ Students (working in groups) will be responsible for presenting a methods tutori
 - 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **methods_tutorial** tab).
 - 📤 Prior to the presentation, upload your tutorial materials (scripts, datasets) to the **methods_tutorial_materials** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link).
 
+
 ## Research Paper Details
 
-The research paper may either apply NLP to answer a question in your field of research or contribute methodologically to the literature on NLP/text-as-data. The objective is to use this as an opportunity to write (and eventually publish) a substantive research paper---not just a course paper for the sake of fulfilling a requirement. 
+The research paper may either apply NLP to answer a question in your field of research or contribute methodologically to the literature on NLP. The objective is to use this as an opportunity to write (and eventually publish) a substantive research paper---not just a course paper for the sake of fulfilling a requirement. 
 
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
 - The expected length is 2,000--4,000 words, although longer papers are also accepted.
@@ -88,23 +90,56 @@ The research paper may either apply NLP to answer a question in your field of re
 - 🗓️ Sign up for a one-on-one meeting to discuss your proposal [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **one_on_one_meeting** tab).
 - 📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link) by XXX. 
 - 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link) by XXX.
-  
+
+
+## AI Use Policy
+
+The use of generative AI tools is permitted in this course and can serve as a valuable aid to your learning. However, these tools are intended to support your intellectual development---not replace it. 
+
+Students remain responsible for understanding, evaluating, and being able to explain the material and work you submit. They are expected to demonstrate genuine understanding through verbal discussion. If a student is unable to clearly explain key arguments, methods, coding decisions, or critiques when asked, this will raise serious concerns about improper reliance on AI tools.
+
+First, AI tools may also be used to support learning when engaging with research papers, but they must support comprehension rather than replace it.
+
+- Recommended use
+    - Use AI to aid understanding: when you encounter difficult concepts, unfamiliar terminology, or technical sections, you may use AI tools to ask questions, request explanations, or clarify specific passages. AI can be helpful as an interactive tutor while you work toward your own understanding.
+
+- Prohibited use
+    - Do not outsource reading to AI: using AI to summarize entire articles to replace careful reading and critical thinking is not allowed. AI tools should not substitute for your own engagement with the text.
+	- Do not rely on AI-generated critiques: you are expected to form your own evaluation of research papers. Simply prompting AI to produce summaries, critiques, or discussion points without independently reading and analyzing the article defeats the purpose of the assignment.
+
+Second, AI tools can be helpful in programming, but they must be used in a way that supports learning rather than replacing it.Relying on AI-generated code without understanding it is harmful to your development as a researcher. You are expected to invest the time and effort to work through tasks independently, reason through the structure of your approach, and understand the purpose and function of each component of your code.
+
+- Recommended Use
+    - Start with your own reasoning: attempt to solve the task independently before considering an AI tool. Think critically about the structure of the problem and draft your own solution first.
+    - Use AI for troubleshooting and clarification: when you are stuck, you may use AI to help debug errors, clarify concepts, or explore possible approaches. Treat AI as a learning assistant—not a substitute for your effort.
+    - Use AI to refine your work: after developing a working solution, you may use AI to improve readability, organization, efficiency, or scalability.
+    - Review and validate carefully: you are responsible for every line of code you submit. Ensure that you understand what each part of your script does and why it is included.
+
+- Prohibited Use
+	- Submitting code you do not understand: relying on AI-generated code without comprehension is not acceptable.
+	- Using AI as a shortcut to bypass reasoning: prompting AI to generate full solutions without first attempting the task yourself undermines the purpose of the assignment.
+	- Blind copy-and-paste use: including AI-generated code without reviewing, modifying, and validating it is prohibited.
+
+
+
 ## Weekly Schedule
 
 The weekly schedule may be modified as needed to align with the course's overall progress and students' varying levels of comprehension. 1) The article marked with a cross (✝) is designated for application review. 2) Some courses will be held via Zoom, with students participating individually (not together in the classroom). 3) Be sure to bring your laptop for every class.
 
-### Week 1 (Feb 25): Course Overview
+### Week 1 (Mar 2): Substitute Holiday for the 3. 1 Independence Movement Day
+
+### Week 2 (Mar 9): Course Overview
   - Objectives, class components, weekly themes  
   - Install Python before the next class  
 
-### Week 2 (Mar 4): Selecting and Cleaning Texts
+### Week 3 (Mar 16): Selecting and Cleaning Texts
 - Required reading
   - [GRS] Sections 3.1 and 3.2 in Chp. 3 "Principles of Selection and Representation." 
   - [GRS] Chp. 4 "Selecting Documents."
   - [JM] Sections 2.1 and 2.2 in Chp. 2 "Regular Expressions, Text Normalization, Edit Distance"
   - [AG] pp. 37-56 in Chp. 2 "Tokens and Embeddings"
 
-### Week 3 (Mar 11): Representing and Comparing Texts  
+### Week 4 (Mar 23): Representing and Comparing Texts  
 - Required reading
   - [GRS] Chp. 5 "Bag of Words."
   - [GRS] Chp. 7 "The Vector Space Model and Similarity Metrics."
@@ -114,28 +149,7 @@ The weekly schedule may be modified as needed to align with the course's overall
   - [JM] Section 2.4 in Chp. 2 "Regular Expressions, Text Normalization, Edit Distance"
   - Christopher, D., Raghavan, P. and Schütze, H., 2008. Scoring term weighting and the vector space model. Introduction to information retrieval, 100, pp.2-4.
 
-### Week 4 (Mar 18): Supervised Learning Methods I  
-- Required reading
-  - [GRS] Chp. 17 "An Overview of Supervised Classification"
-  - [GRS] Chp. 18 "Coding a Training Set"
-  - [GRS] Chp. 19 "Classifying Documents with Supervised Learning"
-  - [GRS] Chp. 20 "Checking Performance"
-  - ✝ Siegel, A.A., Nikitin, E., Barberá, P., Sterling, J., Pullen, B., Bonneau, R., Nagler, J. and Tucker, J.A., 2021. Trumping hate on Twitter? Online hate speech in the 2016 US election campaign and its aftermath. Quarterly Journal of Political Science, 16(1), pp.71-104.
-- Optional reading
-  - Piper, A., 2022. Biodiversity is not declining in fiction. Journal of Cultural Analytics, 7(3).
-
-### Week 5 (Mar 25): Supervised Learning Methods II  
-- Required reading
-  - [JM] Chp. 5 "Logistic Regression"
-  - Barberá, P., Boydstun, A.E., Linn, S., McMahon, R. and Nagler, J., 2021. Automated text classification of news articles: A practical guide. Political Analysis, 29(1), pp.19-42.
-  - Miller, B., Linder, F., & Mebane Jr, W. R. (2020). Active learning approaches for labeling text: review and assessment of the performance of active learning approaches. Political Analysis, 28(4), 532-551.
-  - ✝ Bestvater, S.E. and Monroe, B.L., 2023. Sentiment is not stance: Target-aware opinion classification for political text analysis. Political Analysis, 31(2), pp.235-256.
-- Optional reading
-  - [JM] Chp. 4 "Naive Bayes and Sentiment Classification"
-  - [JM] Sections 7.1-7.4 and 7.6 in Chp. 7 "Neural Networks and Neural Language Models"
-  - Arnold, C., Biedebach, L., Küpfer, A. and Neunhoeffer, M., 2023. The role of hyperparameters in machine learning models and how to tune them. Political Science Research and Methods, pp.1-8.
-
-### Week 6 (Apr 1): Embeddings  
+### Week 5 (Mar 30): Word Embeddings  
 - Required reading
   - [GRS] Chp. 8 "Distributed Representations of Words"
   - [JM] Chp. 6 ``Vector Semantics and Embeddings"
@@ -148,8 +162,8 @@ The weekly schedule may be modified as needed to align with the course's overall
   - Osnabrügge, M., Hobolt, S.B. and Rodon, T., 2021. Playing to the gallery: Emotive rhetoric in parliaments. American Political Science Review, 115(3), pp.885-899.
   - Garten, J., Hoover, J., Johnson, K.M., Boghrati, R., Iskiwitch, C. and Dehghani, M., 2018. Dictionaries and distributions: Combining expert knowledge and large scale textual data content analysis: Distributed dictionary representation. Behavior research methods, 50, pp.344-361.
   - Pennington, J., Socher, R. and Manning, C.D., 2014, October. Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543).
-    
-### Week 7 (Apr 8): Topic Models
+
+### Week 6 (Apr 6): Topic Models
 - Required reading
   - [GRS] Chp. 13 ``Topic Models."
   - Blei, D.M., 2012. Probabilistic topic models. Communications of the ACM, 55(4), pp.77-84.
@@ -159,20 +173,24 @@ The weekly schedule may be modified as needed to align with the course's overall
   - Ying, L., Montgomery, J.M. and Stewart, B.M., 2022. Topics, concepts, and measurement: A crowdsourced procedure for validating topics as measures. Political Analysis, 30(4), pp.570-589.
   - Roberts, M.E., Stewart, B.M., Tingley, D. and Airoldi, E.M., 2013, December. The structural topic model and applied social science. In Advances in neural information processing systems workshop on topic models: computation, application, and evaluation (Vol. 4, No. 1, pp. 1-20).
 
-### Week 8 (Apr 15): Mid-term Break
-- No class
-
-### Week 9 (Apr 22): NLP with Korean [[Zoom link]](https://kaist.zoom.us/my/taegyoon)
-- (10:00-11:15am) Guest lecture by [Byungjoon Kim](https://byungjunkim.com) on NLP with Korean  
-
-### Week 10 (Apr 29): One-on-One Meetings 
-- One-on-one meetings will be based on one-page proposals and will occur on Apr 22, 23, and 30 as well as Apr 29.
-
-### Week 11 (May 6): Children's Day
-- No class
-
-### Week 12 (May 13): Representation Models I
+### Week 7 (Apr 13): Supervised Learning Methods 
 - Required reading
+  - [GRS] Chp. 17 "An Overview of Supervised Classification"
+  - [GRS] Chp. 18 "Coding a Training Set"
+  - [GRS] Chp. 19 "Classifying Documents with Supervised Learning"
+  - [GRS] Chp. 20 "Checking Performance"
+  - ✝ Siegel, A.A., Nikitin, E., Barberá, P., Sterling, J., Pullen, B., Bonneau, R., Nagler, J. and Tucker, J.A., 2021. Trumping hate on Twitter? Online hate speech in the 2016 US election campaign and its aftermath. Quarterly Journal of Political Science, 16(1), pp.71-104.
+- Optional reading
+  - Piper, A., 2022. Biodiversity is not declining in fiction. Journal of Cultural Analytics, 7(3).
+    
+### Week 8 (Apr 20): Mid-term Break
+
+### Week 9 (Apr 27): One-on-one meertings I
+
+### Week 10 (May 1): Guest Specture (TBD)
+
+### Week 11 (May 11): Representation Models I
+Required reading
   - Smith, N.A., 2019. Contextual word representations: A contextual introduction. arXiv preprint arXiv:1902.06006.
   - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
   - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
@@ -184,9 +202,9 @@ The weekly schedule may be modified as needed to align with the course's overall
   - [JM] Chp. 9 "RNNs and LSTMs"
   - [JM] Chp. 10 ``Transformers and Pretrained Language Models"
   - Rogers, A., Kovaleva, O. and Rumshisky, A., 2021. A primer in BERTology: What we know about how BERT works. Transactions of the Association for Computational Linguistics, 8, pp.842-866.
-
-### Week 13 (May 20): Representation Models II 
-- Required reading
+    
+### Week 12 (May 18): Representation Models II 
+ - Required reading
   - [AG] Chp. 11 "Fine-tuning Representation Models for Classification"
   - [JM] Chp. 11 "Masked Language Models"
   - ✝ Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., Abramitzky, R. and Jurafsky, D., 2022. Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. Proceedings of the National Academy of Sciences, 119(31), p.e2120510119.
@@ -195,8 +213,10 @@ The weekly schedule may be modified as needed to align with the course's overall
   - Wang, Y. (2024). On finetuning large language models. Political Analysis, 32(3), 379-383.
   - Laurer, M., Van Atteveldt, W., Casas, A. and Welbers, K., 2024. Widmann, T. and Wich, M., 2023. Creating and comparing dictionary, word embedding, and transformer-based models to measure discrete emotions in German political text. Political Analysis, 31(4), pp.626-641.
   - Nguyen, T. D., Chen, Z., Carroll, N. G., Tran, A., Klein, C., & Xie, L. (2024, May). Measuring moral dimensions in social media with mformer. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 18, pp. 1134-1147).
-    
-### Week 14 (May 27): Large Language Models I  
+
+### Week 13 (May 25): Substitute Holiday for Buddha’s Birthday
+
+### Week 14 (Jun 1): Large Language Models I  
 - Required reading
   - [AG] Chp. 1 "An Introduction to Large Language Models"
   - [AG] Chp. 3 "Looking Inside Large Language Models"
@@ -205,8 +225,8 @@ The weekly schedule may be modified as needed to align with the course's overall
   - ✝ Barrie, C., Palaiologou, E., & Törnberg, P. (2024). Prompt stability scoring for text annotation with large language models. arXiv preprint arXiv:2407.02039.
 - Optional reading
   - Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2024). A tutorial on open-source large language models for behavioral science. Behavior Research Methods, 56(8), 8214-8237.
-
-### Week 15 (Jun 3): Large Language Models II  
+    
+### Week 15 (Jun 8): Large Language Models II  
 - Required reading
   - [AG] Chp. 6 "Prompt Engineering"
   - [AG] Chp. 12 "Fine-tuning Generation Models"
@@ -214,9 +234,7 @@ The weekly schedule may be modified as needed to align with the course's overall
   - Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E., ... & Zhou, D. (2022). Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35, 24824-24837.
   - Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., ... & Zhou, D. (2022). Self-consistency improves chain of thought reasoning in language models. arXiv preprint arXiv:2203.11171.
 
-### Week 16 (Jun 10): Writing Research Paper
-- No class
-
+### Week 16 (Jun 15): One-on-one meertings II
 
 ## Policies
 - **Instruction Mode:** In-person, with potential changes announced in advance.
