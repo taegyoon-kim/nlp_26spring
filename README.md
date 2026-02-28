@@ -1,8 +1,10 @@
-# HSS 510 / DS 518: NLP for Humanities and Social Sciences
+# HSS 510 / DS 518: Natural Language Processing for Humanities and Social Sciences
 
-**Spring 2025**  
-**Tue 10:00am–1:00pm**  
-**N4 1209-1, School of Digital Humanities and Computational Social Sciences**
+
+**Spring 2026**  
+**Mon 10:00am–1:00pm**  
+**N4 1319, School of Digital Humanities and Computational Social Sciences**
+
 
 ## Instructor
 - **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
@@ -10,25 +12,29 @@
 - **Office hours:** Wed 10:00am–12:00pm & By appointment, N4 1308
 - **Webpage:** [https://taegyoon-kim.github.io](https://taegyoon-kim.github.io)
 
+
 ## Course Overview
 
-This course introduces students to the fundamental concepts and techniques of NLP/text-as-data, emphasizing the development of critical insights for its application in humanities and social sciences research. The course will blend theoretical understanding with practical, hands-on experience. Students will develop not only a mathematical/statistical intuition for key NLP/text-as-data approaches but also learn how to effectively implement these approaches in their own research. 
+This course introduces students to the fundamental concepts and techniques of NLP, emphasizing the development of critical insights for its application in humanities and social sciences research. The course will blend theoretical understanding with practical, hands-on experience. Students will develop not only a mathematical/statistical intuition for key NLP approaches but also learn how to effectively implement these approaches in their own research. 
 
 Each class will start with a lecture by the instructor, complemented by guided coding. The latter portion of the class will feature two activities. Students will first engage in a review of applied research. Then, they will lead hands-on methods tutorials. 
 
-While prior experience in NLP/text-as-data is not required, students should possess basic programming skills in Python, along with some familiarity with quantitative analysis. By the end of this course, students will gain a comprehensive understanding of the potential of NLP/text-as-data in humanities and social sciences, mastering techniques to apply and refine NLP/text-as-data for their research.
+While prior experience in NLP is not required, students should possess basic programming skills in Python, along with some familiarity with quantitative analysis. By the end of this course, students will gain a comprehensive understanding of the potential of NLP in humanities and social sciences, mastering techniques to apply and refine NLP for their research.
+
 
 ## Prerequisites
 Basic programming skills in Python and familiarity with quantitative analysis are required
 
+
 ## Readings
 Students will engage with articles, supplemented by the following textbooks (sections provided weekly):
-
-- **[GRS]** Grimmer, J., Roberts, M.E., & Stewart, B.M. (2022). *Text as Data: A New Framework for Machine Learning and the Social Sciences*. [Link](https://product.kyobobook.co.kr/detail/S000002751294)
 
 - **[JM]** Jurafsky, D. & Martin, J.H. *Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition*. [Link](https://web.stanford.edu/~jurafsky/slp3/)
 
 - **[AG]** Alammar, J. & Grootendorst, M. (2024). *Hands-On Large Language Models: Language Understanding and Generation*. [Link](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)
+- 
+- **[GRS]** Grimmer, J., Roberts, M.E., & Stewart, B.M. (2022). *Text as Data: A New Framework for Machine Learning and the Social Sciences*. [Link](https://product.kyobobook.co.kr/detail/S000002751294)
+
 
 ## Summary of Major Tasks
 
@@ -42,43 +48,46 @@ Students are expected to complete the following tasks (the numbers in parenthese
     
 - **Research Paper (40%)**: Students will write a research paper (2,000-4,000 words).
 
-- **Exercises (15%)**: Take-home exercises will be assigned to strengthen understanding of concepts and enhance programming skills.
+- **Exercises (15%)**: Take-home exercises will be assigned to strengthen understanding of concepts and enhance application skills.
+
   
 ## Application Review Discussion Details
 
-Students (in groups) will present a review of an applied article that employs NLP/text-as-data and lead a discussion on it. This exercise is designed to enhance their understanding not only of the techniques themselves but also of their principled applications in actual research.
+Students (working in groups) will present a review of an applied research article that employs NLP methods and lead a class discussion. This exercise is designed to enhance students’ understanding not only of NLP techniques themselves but also of their principled application in empirical research. Students should focus on critically evaluating how NLP methods are used to address substantive research questions.
 
-- Present a review of an applied NLP/text-as-data article, including:
-    - Research objectives/questions.
-    - Text data used and collection methods.
-    - NLP/text-as-data methods applied.
-    - Pros/cons of the use of the methods.
-    - Suggestions for improvement.
+- Present a review of an applied NLP article, including:
+    - Research objectives/questions: What are the research questions? What are the theories/hypotheses?
+    - (Text) data used and data collection methods: what data are used? how were the data collected? Are these appropriate data for addressing the research questions? Why or why not? 
+    - NLP methods applied: What NLP techniques are applied, and how are they implemented? Are these appropriate methodological choices? Why or why not? 
+    - Suggestions for improvement: How could the study be improved methodologically Oor empirically in general)?
+    - How can similar approaches can be used for your own research: How could similar approaches be applied to your own research projects? Provide at least two concrete ideas.
 - The presentation should last up to 15 minutes and will be followed by a 15-minute open discussion led by the presenters.
-- Non-presentings students are required to acively engage in the open disucssion. <br>
+- Presenting students are responsible for initiating and leading the open discussion, while non-presenting students are expected to actively participate.
 - 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **applied_review_discussion** tab). 
-- 📤 Prior to the presentation, upload your presentation slides to the **applied_review_discussion_slides** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
+- 📤 Prior to the presentation, upload your presentation slides to the **applied_review_discussion_slides** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link).
 
 ## Methods Tutorial Details
 
-Students (in groups) will be responsible for presenting a methods tutorial. The presentations serve a dual purpose: first, to provide non-presenting students with a hands-on implementation of the techniques covered in the previous week; and second, to offer presenting students an opportunity to apply and adapt those techniques in their own research.
+Students (working in groups) will be responsible for presenting a methods tutorial. The presentations serve a dual purpose: first, to provide non-presenting students with a hands-on implementation of the techniques covered in the previous week; and second, to offer presenting students an opportunity to apply and adapt those techniques in their own research. A key component of evaluation will be how clear, understandable, and followable the tutorial is for the class. Presentations should be structured so that other students can realistically learn and reproduce the method.
 
-- Present and demonstrate the implementation of NLP/text-as-data techniques using real data (preferably your own data).
+- Present and demonstrate the implementation of NLP techniques using real data (preferably your own data).
 - Walk the class through the script, explaining each step and ensuring everyone can follow.
+- Make sure that the code is understandable based on your explanation.
+- If the technical details are too extensive to cover during class, ensure that you include sufficient explanatory comments in the script so that students can read and implement it afterward.
 - The presentation should last up to 15 minutes.
 - 🗓️ Sign up for a slot [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **methods_tutorial** tab).
-- 📤 Prior to the presentation, upload your tutorial materials (scripts, datasets) to the **methods_tutorial_materials** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link).
+- 📤 Prior to the presentation, upload your tutorial materials (scripts, datasets) to the **methods_tutorial_materials** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link).
 
 ## Research Paper Details
 
-The research paper may either apply NLP/text-as-data to answer a substantive or theoretical question in your field of research or contribute methodologically to the literature on NLP/text-as-data. The objective is to use this as an opportunity to write (and eventually publish) a substantive research paper — not just a course paper for the sake of fulfilling a requirement!
+The research paper may either apply NLP to answer a question in your field of research or contribute methodologically to the literature on NLP/text-as-data. The objective is to use this as an opportunity to write (and eventually publish) a substantive research paper---not just a course paper for the sake of fulfilling a requirement. 
 
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
-- The expected length is 2,000–-4,000 words, although longer papers are also accepted.
-- As an intermediate step, submit a one-page proposal (yes, *one* page) by April 18.
+- The expected length is 2,000--4,000 words, although longer papers are also accepted.
+- As an intermediate step, submit a one-page proposal (yes, *one* page) by XXX.
 - 🗓️ Sign up for a one-on-one meeting to discuss your proposal [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **one_on_one_meeting** tab).
-- 📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by April 18. 
-- 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1w3xBhbPXvhQsElDQISanHKIz9eRAJSiP?usp=share_link) by June 17.
+- 📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link) by XXX. 
+- 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link) by XXX.
   
 ## Weekly Schedule
 
