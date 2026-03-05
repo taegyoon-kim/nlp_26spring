@@ -120,8 +120,6 @@ Second, AI tools can be helpful in programming, but they must be used in a way t
 	- Using AI as a shortcut to bypass reasoning: prompting AI to generate full solutions without first attempting the task yourself undermines the purpose of the assignment.
 	- Blind copy-and-paste use: including AI-generated code without reviewing, modifying, and validating it is prohibited.
 
-
-
 ## Weekly Schedule
 
 The weekly schedule may be modified as needed to align with the course's overall progress and students' varying levels of comprehension. 1) The article marked with a cross (✝) is designated for application review. 2) Some courses will be held via Zoom, with students participating individually (not together in the classroom). 3) Be sure to bring your laptop for every class.
@@ -187,7 +185,7 @@ The weekly schedule may be modified as needed to align with the course's overall
 
 ### Week 9 (Apr 27): One-on-one meertings I
 
-### Week 10 (May 1): Guest Specture (TBD)
+### Week 10 (May 4): Guest Specture (TBD)
 
 ### Week 11 (May 11): Representation Models I
 Required reading
