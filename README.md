@@ -3,7 +3,7 @@
 
 **Spring 2026**  
 **Mon 10:00am–1:00pm**  
-**N4 1319, School of Digital Humanities and Computational Social Sciences**
+**N4 1313, School of Digital Humanities and Computational Social Sciences**
 
 
 ## Instructor
