@@ -88,10 +88,10 @@ The research paper may either apply NLP to answer a question in your field of re
 
 - The paper should follow a format that includes a title, abstract, main text, references, and appendices or supplementary materials.
 - The expected length is 2,000--4,000 words, although longer papers are also accepted.
-- As an intermediate step, submit a one-page proposal (yes, *one* page) by XXX.
+- As an intermediate step, submit a one-page proposal (yes, *one* page) by Apr 24.
 - 🗓️ Sign up for a one-on-one meeting to discuss your proposal [here](https://docs.google.com/spreadsheets/d/1QpepppII8QjuzLN3CfQ6R7xqnmPmb6KGyEXpMhVz480/edit?usp=sharing) (the **one_on_one_meeting** tab).
-- 📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link) by XXX. 
-- 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link) by XXX.
+- 📤 Upload your one-page proosal to the **one_page_proposals** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link). 
+- 📤 Upload your final papers to the **final_papers** folder [here](https://drive.google.com/drive/folders/1rbj8qIRyQEAr4fREGzmIAgalMKBPkbsw?usp=share_link) by Jun 19.
 
 
 ## AI Use Policy
