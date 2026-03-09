@@ -21,8 +21,7 @@ Each class will start with a lecture by the instructor, complemented by guided c
 
 While prior experience in NLP is not required, students should possess basic programming skills in Python, along with some familiarity with quantitative analysis. By the end of this course, students will gain a comprehensive understanding of the potential of NLP in humanities and social sciences, mastering techniques to apply and refine NLP for their research.
 
-* _Note: This is not a course on large language model (LLM) engineering or building AI applications. Instead, the course focuses on understanding the logic of NLP methods and applying them to analyze textual data in the humanities and social sciences.
-_
+* Note: This is not a course on large language model (LLM) engineering or building AI applications. Instead, the course focuses on understanding the logic of NLP methods and applying them to analyze textual data in the humanities and social sciences.
 
 ## Prerequisites
 Basic programming skills in Python and familiarity with quantitative analysis are required
