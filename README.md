@@ -9,7 +9,7 @@
 ## Instructor
 - **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
 - **Email:** [taegyoon@kaist.ac.kr](mailto:taegyoon@kaist.ac.kr)
-- **Office hours:** Wed 10:00am–12:00pm & By appointment, N4 1308
+- **Office hours:** By appointment, N4 1308
 - **Webpage:** [https://taegyoon-kim.github.io](https://taegyoon-kim.github.io)
 
 
