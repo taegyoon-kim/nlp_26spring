@@ -24,10 +24,12 @@ While prior experience in NLP is not required, students should possess basic pro
 * Note: This is not a course on large language model (LLM) engineering or building AI applications. Instead, the course focuses on understanding the logic of NLP methods and applying them to analyze textual data in the humanities and social sciences.
 
 ## Prerequisites
-Basic programming skills in Python and familiarity with quantitative analysis are required
+
+Basic programming skills in Python and familiarity with quantitative analysis are required.
 
 
 ## Readings
+
 Students will engage with articles, supplemented by the following textbooks (sections provided weekly):
 
 - **[JM]** Jurafsky, D. & Martin, J.H. *Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition*. [Link](https://web.stanford.edu/~jurafsky/slp3/)
